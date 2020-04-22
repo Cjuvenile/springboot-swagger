@@ -1,0 +1,5 @@
+#启动环境
+spring:
+  profiles:
+    #  注意空格不能省略
+    active: prod
